@@ -1,7 +1,7 @@
 baseURL: https://example.com/
 languageCode: en-us
 title: Author Name
-theme: "PaperMod"
+#theme: "PaperMod"
 
 params:
     homeInfoParams:
